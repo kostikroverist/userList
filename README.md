@@ -1,19 +1,19 @@
 # userList 
 ## running front-end 
     For installing angular
-    ```bash
+    ```cdm
     npm install -g @angular/cli
     ```
     save npm modules 
-    ```bash
+    ```cdm
     npm install
     ```
     run app
-    ```bash
+    ```cdm
     npm run start
     ```
     or 
-    ```bash
+    ```cdm
     ng serve -o
     ```
 ## running back-end
