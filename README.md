@@ -1,19 +1,19 @@
 # userList 
 ## running front-end 
-    For installing angular
-    ```terminal
+#### For installing angular
+    ```cmd
     npm install -g @angular/cli
     ```
-    save npm modules 
-    ```terminal
+#### save npm modules 
+    ```cmd
     npm install
     ```
-    run app
-    ```terminal
+#### run app
+    ```cmd
     npm run start
     ```
-    or 
-    ```terminal
+#### or 
+    ```cmd
     ng serve -o
     ```
 ## running back-end
